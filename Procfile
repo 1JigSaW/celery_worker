@@ -1,0 +1,1 @@
+worker: celery -A BrainBites worker --loglevel=info
